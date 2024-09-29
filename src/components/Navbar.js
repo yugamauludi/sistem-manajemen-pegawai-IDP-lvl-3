@@ -28,7 +28,7 @@ export default function Navbar() {
         <nav class="bg-white dark:bg-gray-900 fixed w-full z-20 top-0 start-0 border-b border-gray-200 dark:border-gray-600">
             <div class="flex flex-wrap items-center justify-between mx-auto p-4">
                 <a href="/pegawai" class="flex items-center space-x-3 rtl:space-x-reverse">
-                    <img src="https://lh6.googleusercontent.com/proxy/EEyh3_FQSdOgfArHo8CE1nORtqcPh22CX2-7Kv9eSEKaau5Hd6s_Eqez_BA4J7w7AKoG_7g2IE1wjRswjxsvP3INbD_9V743_nFHfjytTGQlmJINGvY2iCJnzdvGh8R2SZQ" class="h-8" alt="Flowbite Logo"/>
+                    <img src="https://lh6.googleusercontent.com/proxy/EEyh3_FQSdOgfArHo8CE1nORtqcPh22CX2-7Kv9eSEKaau5Hd6s_Eqez_BA4J7w7AKoG_7g2IE1wjRswjxsvP3INbD_9V743_nFHfjytTGQlmJINGvY2iCJnzdvGh8R2SZQ" class="h-8" alt="Semag Logo"/>
                     <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">SIMPEG</span>
                 </a>
                 <div class="flex md:order-2 space-x-3 md:space-x-0 rtl:space-x-reverse">
